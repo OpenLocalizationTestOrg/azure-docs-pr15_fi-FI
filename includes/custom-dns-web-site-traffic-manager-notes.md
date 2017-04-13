@@ -1,0 +1,1 @@
+Jos sinulla ei ole liikenteen hallinta profiilin, käytä tiedot luominen [käyttämällä nopea luominen liikenteen hallinta profiilin](../articles/traffic-manager/traffic-manager-manage-profiles.md) luomaan. Huomautus **. trafficmanager.net** liitetyn profiilin liikenteen hallinta kun tämä käyttävät myöhemmin myöhemmin vaiheet toimialuenimen.

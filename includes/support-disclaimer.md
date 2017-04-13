@@ -1,0 +1,1 @@
+Jos tässä artikkelissa ei käsitellä Azure ongelmaa, käy Azure [MSDN](https://azure.microsoft.com/support/forums/)ja Pinon ylivuoto. Voit julkaista ongelmaa nämä keskustelupalstalle tai [ @AzureSupport Twitter-](https://twitter.com/AzureSupport). Voit myös jättää Azure tukipyyntö valitsemalla **tuen saaminen** [Azure tuki](https://azure.microsoft.com/support/options/) -sivustossa.

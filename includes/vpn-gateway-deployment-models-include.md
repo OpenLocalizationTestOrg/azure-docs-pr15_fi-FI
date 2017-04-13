@@ -1,0 +1,5 @@
+On tärkeää ymmärtää, että Azure toimii tällä hetkellä kaksi käyttöönoton mallit: Resurssienhallinta ja perinteinen. Ennen kuin aloitat kokoonpanosi, tarkista, että käytössäsi on käyttöönottomalli, jonka haluat tutustua ohjeita. Kaksi mallit eivät ole täysin yhteensopivia toistensa kanssa.
+
+Jos käsittelet virtual verkkoon, joka on luotu perinteinen käyttöönotto-mallin avulla ja haluat lisätä yhteyden VNet, vakiomittoja käyttöönottomenetelmiä, jotka vastaavat perinteinen käyttöönottomalli ei Resurssienhallinta. Jos käsittelet virtual verkkoon, joka on luotu käyttämällä resurssien hallinnan käyttöönottomalli, voit käyttää käyttöönottomenetelmiä, jotka vastaavat resurssien hallinnan avulla ei perinteinen.
+
+Käyttöönotto-mallien tietoja on artikkelissa [tietoja resurssien hallinnan käyttöönotto- ja perinteinen käyttöönotto](../articles/resource-manager-deployment-model.md).

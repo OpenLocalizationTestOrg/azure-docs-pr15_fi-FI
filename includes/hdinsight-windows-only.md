@@ -1,0 +1,1 @@
+> [AZURE.NOTE] Windows-pohjaisesta HDInsight klustereiden koskee vain tässä asiakirjassa.

@@ -1,0 +1,1 @@
+Kun luot verkkosovellukseen, Microsoft Azure tarjoaa helpossa muodossa alitoimialueen azurewebsites.net toimialueen siten voi käyttää URL-Osoitetta, kuten http:// käyttämällä koodiin&lt;mywebapp&gt;. azurewebsites.net. Voit myös liittää mukautettua toimialuenimeä, esimerkiksi contoso.com-web-sovelluksen, jotta voit antaa käyttäjien Lisää tunnistettavan toimialuenimeä.

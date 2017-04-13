@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Tämä ominaisuus on käytettävissä **Azure CDN Verizon-** tuotteiden (vakio ja Premium). Se ei tueta **Azure CDN-Akamai**.  Artikkelissa on CDN ominaisuuksien vertailu, [Azure CDN yleiskatsaus](cdn-overview.md#azure-cdn-features). 

@@ -1,0 +1,4 @@
+- [Roolipohjainen käyttöoikeuksien valvonta](../articles/active-directory/role-based-access-control-configure.md)
+- [PowerShellin Azure käyttöoikeuksien hallinta](../articles/active-directory/role-based-access-control-manage-access-powershell.md)
+- [Azure-CLI käyttämällä käyttöoikeuksien hallinta](../articles/active-directory/role-based-access-control-manage-access-azure-cli.md)
+- [RBAC roolien hallinta](../articles/active-directory/role-based-access-built-in-roles.md)

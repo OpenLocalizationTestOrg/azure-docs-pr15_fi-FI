@@ -1,0 +1,7 @@
+- **PolicyBased:** PolicyBased VPN-yhteydet aiemmin kutsuttiin staattinen reititys yhdyskäytävien perinteinen käyttöönotto-mallissa. Käytännön perustuva VPN-yhteydet salaa ja suora pakettien IP tunnelissa osoitteiden etuliitteiden paikallisen verkon ja Azure VNet välille yhdistelmät määritetty IP-suojauskäytäntöjen perusteella. Käytännön (tai liikenne valitsin) määritetään yleensä VPN-laitteen määrittäminen access-luettelossa. Jos kyseessä on PolicyBased VPN arvo *PolicyBased*. Kun käytät PolicyBased VPN-yhteyttä, ota huomioon seuraavat rajoitukset:
+
+    - PolicyBased VPN-yhteydet voivat **vain** voi käyttää Basic yhdyskäytävän tuote. Tällaista VPN-yhteyttä ei ole yhteensopiva muiden yhdyskäytävän tuotteissa.
+    - Käytössä voi olla vain 1 tunnelin PolicyBased VPN-yhteyttä käytettäessä.
+    - Voit käyttää vain PolicyBased VPN-yhteydet S2S yhteydet ja vain tietyissä käyttömahdollisuudet. Useimmat VPN-yhdyskäytävän määritykset edellyttävät RouteBased VPN-yhteyttä.
+
+- **RouteBased**: RouteBased VPN-yhteydet aiemmin kutsuttiin dynaaminen reititys yhdyskäytävien perinteinen käyttöönotto-mallissa. RouteBased VPN-yhteydet käyttäminen "tiet" IP lähettäminen edelleen tai taulukon reitittämisestä suoraan pakettien niiden vastaavan tunnelin liittymät. Valitse tunnelin liityntäkohdat salaaminen ja salauksen ja siitä uloskirjautuminen akselitunnelien paketit. Käytännön (tai liikenne valitseminen), RouteBased VPN-yhteydet on määritetty kuin mikä tahansa-,-tahansa (tai yleismerkit). RouteBased VPN-tyypin arvo *RouteBased*.

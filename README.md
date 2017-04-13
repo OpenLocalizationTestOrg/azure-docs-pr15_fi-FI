@@ -1,122 +1,121 @@
-# Azure Technical Documentation Contributor Guide
+# <a name="azure-technical-documentation-contributor-guide"></a>Azure teknisten avustaja-opas
 
-You've found the GitHub repository that houses the source for the technical documentation that is published to the Azure Documentation Center at [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation).
+Olet löytänyt GitHub säilö, joka sisältää teknisiä ohjeita, jotka on julkaistu Azure asiakirjat-Centeriin numerossa [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation)lähde.
 
-This repository also contains guidance to help you contribute to our technical documentation.  For a list of the articles in the contributors' guide, see [the index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+Tämä säilö sisältää myös ohjeita voit osallistua Microsoftin teknisten.  Katso luettelo on artikkeleissa osallistujat oppaasta on [hakemiston](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
-## Contribute to Azure documentation
+## <a name="contribute-to-azure-documentation"></a>Jakamia Azure dokumentaatio
 
-Thank you for your interest in Azure documentation!
+Kiitos kiinnostusta Azure ohjeissa.
 
-* [Ways to contribute](#ways-to-contribute)
-* [Code of conduct](#code-of-conduct)
-* [About your contributions to Azure content](#about-your-contributions-to-azure-content)
-* [Repository organization](#repository-organization)
-* [Use GitHub, Git, and this repository](#use-github-git-and-this-repository)
-* [How to use markdown to format your topic](#how-to-use-markdown-to-format-your-topic)
-* [Feedback, comments, and support](./contributor-guide/feedback-and-comments.md)
-* [More resources](#more-resources)
-* [Index of all contributors' guide articles](./contributor-guide/contributor-guide-index.md) (opens new page)
+* [Tapoja lisätä](#ways-to-contribute)
+* [Koodi järjestäminen](#code-of-conduct)
+* [Tietoja toimintaan Azure sisältöön](#about-your-contributions-to-azure-content)
+* [Tietovaraston organisaation](#repository-organization)
+* [GitHub, Git ja tämän säilöön](#use-github-git-and-this-repository)
+* [Opi käyttämään korotuksia muokattava aihe](#how-to-use-markdown-to-format-your-topic)
+* [Palautteen kommentit ja tuki](./contributor-guide/feedback-and-comments.md)
+* [Lisää resursseja](#more-resources)
+* [Indeksi kaikki osallistujat oppaan artikkeleista](./contributor-guide/contributor-guide-index.md) (Avaa uusi sivu)
 
-## Ways to contribute 
+## <a name="ways-to-contribute"></a>Tapoja lisätä 
 
-You can contribute to [Azure documentation](http://azure.microsoft.com/documentation/) in a few different ways:
+Voit osallistua [Azure](http://azure.microsoft.com/documentation/) ohjeissa muutamalla eri tavalla:
 
-* Contribute to a [forum discussion](http://social.msdn.microsoft.com/Forums/windowsazure/home).
-* Submit Disqus comments at the bottom of articles.
-* You can easily contribute to technical articles in the GitHub user interface. Either find the article in this repository, or visit the article on [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation) and click the link in the article that goes to the GitHub source for the article.
-* If you are making substantial changes to an existing article, adding or changing images, or contributing a new article, you need to fork this repository, install Git Bash, Markdown Pad, and learn some git commands.
+* Osaltaan [keskustelupalstalla keskustelu](http://social.msdn.microsoft.com/Forums/windowsazure/home).
+* Lisää artikkeleita alareunassa Disqus kommentteja.
+* Voit helposti osaltaan artikkeleja GitHub käyttöliittymässä. Etsi artikkelin tätä säilöä tai Lisätietoja on artikkelissa [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation) ja napsauttamalla linkkiä, joka siirtyy artikkelin GitHub lähde-artikkelissa.
+* Jos teet merkittäviä muutoksia aiemmin artikkeleihin, lisääminen tai muuttaminen kuvia tai osallistuvat uuden artikkelin haluat haarautuvat tämän säilöön, asenna Git Bash korotuksia Valintapaneeli ja oppia git jotkut komennot.
 
-##Code of conduct
+##<a name="code-of-conduct"></a>Koodi järjestäminen
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Tämä projekti on antanut [Microsoft Avaa lähde niihin](https://opensource.microsoft.com/codeofconduct/). Katso lisätietoja [Järjestä FAQ koodi](https://opensource.microsoft.com/codeofconduct/faq/) tai yhteyshenkilön [opencode@microsoft.com](mailto:opencode@microsoft.com) mitään muita kysymyksiä tai kommentteja.
 
-##About your contributions to Azure content
+##<a name="about-your-contributions-to-azure-content"></a>Tietoja toimintaan Azure sisältöön
 
-###Minor corrections
+###<a name="minor-corrections"></a>Vähäisiä korjaukset
 
-Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the [Azure Website Terms of Use (ToU)](http://azure.microsoft.com/support/legal/website-terms-of-use/).
+Vähäisiä korjauksien tai Lähetä tämä repo-asiakirjat ja koodin esimerkkejä selvennykset jäävät [Azure sivuston käyttöehdot (käyttöehdot)](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
 
-###Larger submissions
+###<a name="larger-submissions"></a>Suurempi lähetysten
 
-If you submit a pull request with new or significant changes to documentation and code examples, we'll send a comment in GitHub asking you to submit an online Contribution License Agreement (CLA) if you are in one of these groups:
+Jos olet lähettänyt uuden tai merkittäviä muutoksia asiakirjoista ja koodiesimerkkejä salaus puretaan pyyntö, lähetämme kommentti-GitHub sinulta kysytään, haluatko lähettää online osuus käyttöoikeuden sopimuksen (CLA), jos sinulla on jokin näistä ryhmistä:
 
-* Members of the Microsoft Open Technologies group.
-* Contributors who don't work for Microsoft.
+* Avaa Microsoft-tekniikoiden-ryhmän jäsenet.
+* Osallistujat, jotka eivät toimi Microsoft.
 
-We need you to complete the online form before we can accept your pull request.
+Tarvitsemme suorittaminen online-lomake, ennen kuin emme voi hyväksyä salaus puretaan puhelinnumeroon.
 
-Full details are available at [http://azure.github.io/guidelines/#cla](http://azure.github.io/guidelines/#cla).
+Tarkat tiedot ovat käytettävissä osoitteessa [http://azure.github.io/guidelines/#cla](http://azure.github.io/guidelines/#cla).
 
-## Repository organization
+## <a name="repository-organization"></a>Tietovaraston organisaation
 
-The content in the azure-content repository follows the organization of documentation on [Azure.Microsoft.com](http://azure.microsoft.com). This repository contains two root folders:
+Azure-sisältö-säilössä sisällön seuraa dokumentaatio organisaation [Azure.Microsoft.com](http://azure.microsoft.com). Tämä säilö sisältää kaksi pääkansion kansiot:
 
-### \articles
+### <a name="articles"></a>\articles
 
-The *\articles* folder contains the documentation articles formatted as markdown files with an *.md* extension.
+*\Articles* -kansio on muotoiltu korotuksia tiedostot, joiden tunniste on *.md* ohjeissa on artikkeleissa.
 
-Articles in the root directory are published to Azure.Microsoft.com in the path *http://azure.microsoft.com/documentation/articles/{article-name-without-md}/*.
+Azure.Microsoft.com julkaistaan artikkeleita pääkansion polun *http://azure.microsoft.com/documentation/articles/ {artikkelin-nimi-ilman-md} /*.
 
-* **Article filenames:** See [our file naming guidance](./contributor-guide/file-names-and-locations.md).
+* **Tiedostonimet artikkeli:** Lisätietoja [Microsoftin tiedostossa nimeäminen ohjeita](./contributor-guide/file-names-and-locations.md).
 
-Articles within their own service folder are published to Azure.Microsoft.com in the path
-*http://azure.microsoft.com/documentation/articles/service-folder/{article-name-without-md}/*
+Oman service-kansiosta käsin artikkeleita julkaistaan Azure.Microsoft.com polussa *http://azure.microsoft.com/documentation/articles/service-folder/ {artikkelissa-nimi-ilman-md} /*
 
-* **Media subfolders:** The *\articles* folder contains the *\media* folder for root directory article media files, inside which are subfolders with the images for each article.  The service folders contain a separate media folder for the articles within each service folder. The article image folders are named identically to the article file, minus the *.md* file extension.
+* **Media alikansiot:** *\Articles* kansio sisältää *\media* kansion pääkansion directory artikkelissa mediatiedostojen sisällä on alikansioita, joissa kunkin artikkelin kuvat.  Palvelun kansiot sisältävät eri media-kansio artikkeleita kunkin palvelun-kansiosta käsin. Artikkelin kuva kansiot nimetään samannimisen artikkelissa-tiedostoon, miinus *.md* tunniste.
 
-### \includes
+### <a name="includes"></a>\Includes
 
-You can create reusable content sections to be included in one or more articles. See [Custom extensions used in our technical content](./contributor-guide/custom-markdown-extensions.md).
+Voit luoda Uudelleenkäytettävän sisällön osia sisällytetään vähintään yksi artikkelit. Katso [Mukautetut tunnisteet käytetään Microsoftin tekninen sisältöä](./contributor-guide/custom-markdown-extensions.md).
 
-### \markdown templates
+### <a name="markdown-templates"></a>\markdown mallit
 
-This folder contains our standard markdown template with the basic markdown formatting you need for an article.
+Tämä kansio sisältää Microsoftin vakio korotuksia mallin basic korotuksia muotoilua, sinun on artikkeliin.
 
-### \contributor-guide
+### <a name="contributor-guide"></a>\contributor-Guide
 
-This folder contains articles that are part of our contributors' guide.  
+Tämä kansio sisältää artikkeleita, jotka ovat osa Microsoftin osallistujien opas.  
 
-## Use GitHub, Git, and this repository
+## <a name="use-github-git-and-this-repository"></a>GitHub, Git ja tämän säilöön
 
-For information about how to contribute, how to use the GitHub UI to contribute small changes, and how to fork and clone the repository for more significant contributions, see [Install and set up tools for authoring in GitHub](./contributor-guide/tools-and-setup.md).
+Lisätietoja voit osallistua GitHub-Käyttöliittymän avulla voit osallistua pieniä muutoksia ja haarautuvat ja Kloonaa Lisää merkittävästi säilö on [asentaminen ja määrittäminen työkaluja yhteiskäyttö GitHub](./contributor-guide/tools-and-setup.md).
 
-If you install GitBash and choose to work locally, the steps for creating a new local working branch, making changes, and submitting the changes back to the main branch are listed in [Git commands for creating a new article or updating an existing article](./contributor-guide/git-commands-for-master.md)
+Jos asennat GitBash ja valitse voit työskennellä, [Git komennot uuden artikkelin luominen tai päivittäminen aiemmin artikkelissa](./contributor-guide/git-commands-for-master.md) on lueteltu luodaan uusi paikallinen toimimasta haaran, muutosten ja lähettämistä muutokset takaisin tärkeimmät haara
 
-### Branches
+### <a name="branches"></a>Haaroja
 
-We recommend that you create local working branches that target a specific scope of change. Each branch should be limited to a single concept/article both to streamline work flow and reduce the possibility of merge conflicts.  The following efforts are of the appropriate scope for a new branch:
+On suositeltavaa luoda paikallisen toimimasta haaroja, joka kohdistaa muutoksen tiettyyn alueeseen. Haaroja olisi rajoitettava yksittäinen käsite/artikkelin sekä virtaviivaistaa työnkulku yhdistämisen ristiriitojen mahdollisuutta.  Uusi haara tarvittavat vaikutusalueen on seuraavia toimia:
 
-* A new article (and associated images)
-* Spelling and grammar edits on an article.
-* Applying a single formatting change across a large set of articles (e.g. new copyright footer).
+* Uuden artikkelin (ja liittyvät kuvat)
+* Oikeinkirjoituksen ja kieliopin tarkistaminen muokkaukset artikkeliin.
+* Käyttää yhden muutoksen lukuisten artikkeleita (esimerkiksi uuden tekijänoikeuksien alatunniste) kautta.
 
-## How to use markdown to format your topic
+## <a name="how-to-use-markdown-to-format-your-topic"></a>Opi käyttämään korotuksia muokattava aihe
 
-All the articles in this repository use GitHub flavored markdown.  Here's a list of resources.
+Kaikki tämän säilöön artikkelit käyttää GitHub flavored korotuksia.  Seuraavassa on luettelo resursseista.
 
-- [Markdown basics](https://help.github.com/articles/markdown-basics/)
+- [Korotuksia perusteet](https://help.github.com/articles/markdown-basics/)
 
-- [Printable markdown cheatsheet](./contributor-guide/media/documents/markdown-cheatsheet.pdf?raw=true)
+- [Tulostettavan korotuksia cheatsheet](./contributor-guide/media/documents/markdown-cheatsheet.pdf?raw=true)
 
-- For our list of markdown editors, see the [tools and setup topic](./contributor-guide/tools-and-setup.md#install-a-markdown-editor).
+- Luettelossamme korotuksia editors on [Työkalut ja asetukset-aihetta](./contributor-guide/tools-and-setup.md#install-a-markdown-editor).
 
-## Article metadata
+## <a name="article-metadata"></a>Artikkelissa metatiedot
 
-Article metadata enables certain functionalities on the azure.microsoft.com web site, such as author attribution, contributor attribution, breadcrumbs, article descriptions, and SEO optimizations as well as reporting Microsoft uses to evaluate the performance of the content. So, the metadata is important! [Here's the guidance for making sure your metadata is done right](./contributor-guide/article-metadata.md).
+Artikkelissa metatietojen avulla tiettyjä azure.microsoft.com-sivuston toimintoja, kuten tekijä attribution, avustaja attribution, navigointipolku, artikkelissa kuvaukset ja Hakukoneoptimoinnin optimointi sekä reporting Microsoft käyttää arvioida sisällön. Tällöin metatiedot on tärkeää! [Seuraavassa on ohjeita, jolla varmistetaan, että metatietojen tehdään oikealle](./contributor-guide/article-metadata.md).
 
-### Labels
+### <a name="labels"></a>Otsikot
 
-Automated labels are assigned to pull requests to help us manage the pull request workflow and to help let you know what's going on with your pull request:
+Automaattinen otsikot on määritetty hakemaan pyynnöt Auta meitä salaus puretaan pyyntö-työnkulun hallinta ja ilmoittamaan, mistä on kyse salaus puretaan pyynnön kanssa:
 
-* Contribution License Agreement related
-    * cla-not-required: The change is relatively minor and does not require that you sign a CLA.
-    * cla-required: The scope of the change is relatively large and requires that you sign a CLA.
-    * cla-signed: The contributor signed the CLA, so the pull request can now move forward for review.
-* Pillar labels: Labels such as PnP, Modern Apps, and TDC help categorize the pull requests by the internal organization that needs to review the pull request.
-* Change sent to author: The author has been notified of the pending pull request.
+* Liittyvät osuus käyttöoikeussopimus
+    * CLA ei: muutos on suhteellisen pieniä ja ei edellytä, että kirjaudut CLA.
+    * CLA pakollinen: Muuta laajuus on suhteellisen suuri ja edellyttää, että kirjaudut CLA.
+    * CLA kirjautunut: osallistuja kirjautunut CLA, jotta salaus puretaan pyynnön nyt siirtää eteenpäin tarkistettavaksi.
+* Pilari otsikot: otsikot, kuten PnP, Nykyaikainen sovellukset ja TDC auttaa luokittelevat salaus puretaan pyynnöt sisäinen organisaatio on tarkistettava salaus puretaan pyynnön.
+* Muuta lähetetään tekijä: tekijä on ilmoitettu odotetaan erotettu pyynnön.
 
-## More resources
+## <a name="more-resources"></a>Lisää resursseja
 
-See the [index of our contributor's guide](./contributor-guide/contributor-guide-index.md) for all our guidance topics.
+Katso [indeksi Microsoftin avustaja-oppaan](./contributor-guide/contributor-guide-index.md) sekä ohjeet-ohjeita.

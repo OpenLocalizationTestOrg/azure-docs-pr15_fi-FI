@@ -1,0 +1,5 @@
+Tämä artikkeli koskee Azure App Service (Web Apps-sovelluksista, API-sovellukset, Mobile-sovellusten, logiikan sovellukset); Katso Cloud Services [määrittäminen Azure pilvipalvelussa mukautettua toimialuenimeä](../articles/cloud-services/cloud-services-custom-domain-name.md).
+
+> [AZURE.NOTE]  Jos olet app kuormituksen saapuva [Azure liikenteen](https://azure.microsoft.com/services/traffic-manager/)hallinta, valitse valitsin tämän artikkelin yläosassa saat ohjeita.
+>
+> **Mukautetun toimialueen nimet ovat ei käytössä maksutta taso**. Sinun täytyy [asteikon suurempi hinta tason ylöspäin](../articles/app-service-web/web-sites-scale.md), jotka saattavat muuttua, kuinka paljon tilauksen on laskutettu. Saat lisätietoja [Sovelluksen palvelun hinnat](https://azure.microsoft.com/pricing/details/app-service/) .

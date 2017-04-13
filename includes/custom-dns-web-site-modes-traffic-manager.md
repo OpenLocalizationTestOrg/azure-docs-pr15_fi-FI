@@ -1,0 +1,3 @@
+Käyttöoikeuksien määrittäminen käyttämään mukautettua toimialuenimeä verkkosovellukseen Azure-sovelluksen palvelun, joka on kuormitus tasataan liikenteen hallinta on vain käytettävissä **Standard** tilassa sivustot. Ennen siirtymistä verkkosovellukseen ilmainen sovellus suunnitelman tilasta jaettu, Basic tai vakio-tilaan, on poistettava kaupankäynnin kulujen caps paikassa App Service-tilauksen. 
+
+Saat lisätietoja sovelluksen palvelun suunnitelman tilat mukaan lukien sivuston tilassa tutustumalla Katso, [miten voit skaalata sivustoja](../articles/app-service-web/web-sites-scale.md).

@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Azure on kaksi eri käyttöönoton mallien luominen ja käyttäminen resurssit: [Resurssienhallinta ja perinteinen](../articles/resource-manager-deployment-model.md).  Tässä artikkelissa käsitellään perinteinen käyttöönotto-mallin. Microsoft suosittelee, että useimmat uudet käyttöönoton käyttävät Resurssienhallinta-malli.

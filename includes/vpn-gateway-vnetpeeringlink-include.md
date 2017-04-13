@@ -1,0 +1,1 @@
+On myös mahdollista muodostaa VPN-yhdyskäytävän käyttämättä VNets. Jos yhteyttä VNets ovat samassa alueella, sinun kannattaa harkita yhteyden muodostaminen käyttämällä VNet peering. Lisätietoja on artikkelissa [VNet peering](../articles/virtual-network/virtual-network-peering-overview.md) .

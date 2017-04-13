@@ -1,0 +1,1 @@
+Kun käytät Microsoft Azure liikenne esimies lataamaan saldo liikenne Azure-sivustoon, sivuston sitten voi käyttää ** \*. trafficmanager.net** Azure määrittämän toimialuenimi. Voit myös yhdistää mukautettua toimialuenimeä, kuten www.contoso.com-sivustoon, jotta voit antaa käyttäjien Lisää tunnistettavan toimialuenimeä.

@@ -1,0 +1,11 @@
+> [AZURE.SELECTOR]
+- [Yleiskatsaus](../articles/hdinsight/hdinsight-use-hive.md)
+- [Rakenne-näkymä](../articles/hdinsight/hdinsight-hadoop-use-hive-ambari-view.md)
+- [SSH](../articles/hdinsight/hdinsight-hadoop-use-hive-ssh.md)
+- [Beeline](../articles/hdinsight/hdinsight-hadoop-use-hive-beeline.md)
+- [Kääntö](../articles/hdinsight/hdinsight-hadoop-use-hive-curl.md)
+- [PowerShellin](../articles/hdinsight/hdinsight-hadoop-use-hive-powershell.md)
+- [.NET](../articles/hdinsight/hdinsight-hadoop-use-hive-dotnet-sdk.md)
+- [Visual Studio](../articles/hdinsight/hdinsight-hadoop-use-hive-visual-studio.md)
+- [Etätyöpöytä](../articles/hdinsight/hdinsight-hadoop-use-hive-remote-desktop.md)
+- [Kyselyn konsoli](../articles/hdinsight/hdinsight-hadoop-use-hive-query-console.md)

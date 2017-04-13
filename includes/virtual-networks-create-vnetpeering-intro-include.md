@@ -1,0 +1,1 @@
+Yhdistää kaksi saman alueen Virtual verkot Azure kuvaa runkoverkkoa verkon kautta, jolla on VNet Peering. Kun peered, kaksi Virtual verkkojen tulee näkyviin yhteyden kaikkiin tarkoituksiin yksittäisen Virtual verkostossa. Lue [VNet Peering yleiskatsaus](../articles/virtual-network/virtual-network-peering-overview.md) , jos et ole aiemmin käyttänyt VNet Peering.

@@ -1,0 +1,3 @@
+Voit luoda näennäiskoneiden (VMs) Azure ja liitä kunkin käyttäjän VMs useita verkkoliittymät (NIC). Usean NIC vaaditaan monta verkon virtual laitteita, kuten sovelluksen toimitus- ja WAN optimointimahdollisuudet. Usean NIC sisältää myös useita verkon liikenteen hallinta-toiminnon, mukaan lukien liikenne välillä eteen eristystaso lopettaa NIC ja takaisin end verkkokorttia tai tasossa tietoliikennettä erottaminen tasossa liikenteen hallinta.
+
+Ennen kuin voit ottaa usean NIC-VMs, on ymmärtää, kun käytät usean NIC ja miten niitä käytetään. Lue lisätietoja VMs, jossa on useita NIC [usean NIC yleiskatsaus](../articles/virtual-network/virtual-networks-multiple-nics.md) .

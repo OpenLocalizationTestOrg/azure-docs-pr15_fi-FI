@@ -1,0 +1,1 @@
+Lisätietoja muiden sidontojen ja käynnistimien Azure-funktioiden artikkelissa [Azure Funktiot käynnistimien ja sidontojen Sovelluskehittäjän opas](../articles/azure-functions/functions-triggers-bindings.md)
