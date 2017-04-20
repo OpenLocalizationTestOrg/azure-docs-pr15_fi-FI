@@ -1,0 +1,3 @@
+Azure sisäisen kuormituksen (ILB) tarjoaa verkon kuormituksen välillä, jotka sijaitsevat sisällä cloud service tai alueellinen kattavuus virtuaaliverkko virtuaalikoneet.
+
+Lisätietoja käytön ja alueellinen kattavuus virtual verkkojen kokoonpanon on [Virtual alueellisten verkkojen](../articles/virtual-network/virtual-networks-migrate-to-regional-vnet.md). Virtual verkoissa, jotka on määritetty affiniteetti-ryhmä ei voi käyttää ILB.
