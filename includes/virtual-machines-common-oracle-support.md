@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Tämä sisältö on poistettu ja enää ylläpidetään.  Oracle-tuen Azure luettelo on artikkelissa [Tämä julkaistu tuki-lause.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)

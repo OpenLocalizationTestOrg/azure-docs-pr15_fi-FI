@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> .Publishsettings-tiedostossa (koodaamaton) tunnistetiedot, joita käytetään Azure tilaukset ja palveluiden hallintaan. Suojauksen tämän tiedoston parhaat käytännöt kannattaa tallentaa sen tilapäisesti lähde-kansioiden (kuten kansiossa Libraries\Documents) ulkopuolella ja poistaa sen, kun tuonti on valmis. Kuka pääsee käyttämään .publishsettings tiedoston joku voi muokata, luominen ja poistaminen Azure palvelujen.

@@ -1,0 +1,3 @@
+> Et voi käyttää v1 (perinteinen), Azure HDInsight Linux-pohjaiset Virtual verkostoa. Virtuaalinen verkko on oltava v2 (Azure Resurssienhallinta), jotta se näkyy jo vaihtoehdoissa Hdinsightista klusterin luomisen aikana Azure esikatselu-portaalissa näkyvän tai voi käyttää, kun luot klusterin Azure CLI tai PowerShellin Azure.
+> 
+> Jos sinulla on resurssien v1 verkossa ja haluat tehdä HDInsight suoraan käytettävissä virtual verkon kautta resurssit-artikkelissa on tietoja v2 Virtual verkon yhdistämisestä v1 Virtual Network [yhteyden perinteinen VNets, uusi VNets](../articles/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal.md) . Kun yhteys on luotu, voit luoda HDInsight-klusterin v2 Virtual verkossa.

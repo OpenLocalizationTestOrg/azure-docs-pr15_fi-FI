@@ -1,0 +1,7 @@
+Copyright (c) Microsoft Corporation.  Jaettu-kohdassa seuraavat ehdot:
+ 
+1. Microsoft- ja minkä tahansa osallistujien tähän projektiin kunkin asiakkaalla käyttöoikeus-kohdassa sen vastaaviin tekijänoikeudet [Creative Commons Attribution 3.0 Yhdysvallat käyttöoikeuden](http://creativecommons.org/licenses/by/3.0/us/legalcode)Microsoft Azure-ohjeista.  Lisäksi otoksen kaikki asiakirjat sisältämä koodi, jotka koskevat Microsoftin ja näiden osallistujien asiakkaalla on käyttöoikeus, valitse sen vastaaviin immateriaalioikeuksista, kehittää tai rakenne-ohjelmiston Microsoft Azure koodin avulla.
+ 
+2.  Microsoft, Windows, Microsoft Azure ja/tai muiden Microsoftin tuotteista ja palveluista Viitattu asiakirjoissa voi olla tavaramerkkejä tai rekisteröityjä Microsoftin Yhdysvalloissa tai muissa maissa. Käyttöoikeus Myönnä oikeus käyttää nimiä, logoja tai tavaramerkkejä. Siirry Microsoftin tavaramerkin Yleiset ohjeet [http://go.microsoft.com/fwlink/?LinkID=254653](http://go.microsoft.com/fwlink/?LinkID=254653).
+ 
+3.  Microsoft- ja minkä tahansa osallistujien varausten kaikkien muiden oikeuksien tekijänoikeuksia ja tavaramerkkejä patenttien kohdassa tai toteutukseen, vastaväitteitä tai muulla tavoin.
